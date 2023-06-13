@@ -1,0 +1,23 @@
+in edit profile screen change divider color based on themes.
+Add shimmer effect where ever there is loading of image from firebase.
+change divider color to theme data based.
+
+
+//
+if the  creator of the community is removed from mod then it should show that any other member sould be added as mod before removing th e whole mods
+after an user logs out remove the commuinty from memory of the mobile .
+trim
+
+check for light mode theme for every screen
+
+
+delete community feature
+
+//in model remove as String type cast
+
+
+
+chnage the like button color for lightmode theme
+Featur added Extra
+1)likes (the user posted cannot be add like to his comment oh his post)
+2)hour ego feature
